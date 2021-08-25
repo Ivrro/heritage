@@ -35,16 +35,3 @@ define( 'DB_COLLATE', '' );
 ```
 
 Quand c'est fait et là ATTENTION : **renomez le fichier en wp-config.php**.
-
-
-## Connexion
-
-Pour se connecter :
-
-Login: admin  
-Mdp: admin_mpwd
-
-Pensez à vous créer un utilisateur afin qu'on ai tous le notre.
-
-
-## Pousser des modifications (à venir)
